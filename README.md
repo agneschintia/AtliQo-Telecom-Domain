@@ -64,3 +64,7 @@ This dashboard shows the revenue of each plans whether it is the non-5G or the 5
 ### Plan Revenue Analysis:
 
 - The P8, P9, and P10 has discontinued in Post-launch of 5G, and P11, P12, and P13 are the 5G products which has launched alongside with the 5G. P1 drives the most revenue growth by total ₹ 4.20 billions from Pre to Post 5G launch. The P11 which the 5G product has contributed around ₹ 1.86 billions from June to September. The company achieved the biggest revenue in July, this because the high demand of 5G in the market.
+
+### Key Takeaways and Recommendations:
+- **Decline in Revenue and Active Users in May.** Many users may be hesitant to switch to 5G due to cost concerns, limited device compatibility, or uncertain benefits over 4G. The initial price point of 5G plans, especially if premium-priced, may lead to a decline in active users, particularly among cost-sensitive customers who see less immediate value in upgrading. To address this challenge the company may introduce phased, competitive pricing for 5G, including promotions or incentives for early adopters.
+- **Recovering Active Users.** Offer competitive pricing or promotional deals for existing users to encourage them to stay or reactivate their accounts. Consider tiered pricing that caters to different user needs.
