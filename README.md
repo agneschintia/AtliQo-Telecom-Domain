@@ -21,6 +21,8 @@ AtliQo’s database structure as seen below consists of six tables: dim_cities, 
 
 ![Atliqo ERD](https://github.com/user-attachments/assets/15a2d6bd-2ed6-4de2-9fbe-7688bcbdf87c)
 
+During the data transformation process, I converted the currency from lakhs to INR. 
+
 ## Executive Summary
 
 ### Overview of Findings
